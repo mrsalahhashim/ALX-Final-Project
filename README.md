@@ -63,8 +63,8 @@ To get a local copy up and running, follow these simple steps:
 
 ## Admin access
 
-- Email: admin@admin.com
-- Password: admin123
+- Email: admin@alx.com
+- Password: 1234
 
 ## Contributers
 
